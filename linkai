@@ -1,0 +1,21 @@
+https://getbootstrap.com/docs/5.3/getting-started/introduction/
+
+<header class="bg-white border-bottom">
+      <div class="container">
+        <!-- Kaire puse -->
+        <div class="col-md-6">
+          <h1 class="display-5 fw-bold">Sveiki atvyke!</h1>
+          <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Consequatur, quasi! Nemo, atque?
+          </p>
+          <button class="btn btn-primary btn-lg">Suzinoti daugiau</button>
+        </div>
+        <!-- Desine puse -->
+        <div class="col-md-6">
+          <div class="bg-secondary text-white rounded-3 p-5 text-center">
+            <p>cia yra paragrafas</p>
+          </div>
+        </div>
+      </div>
+    </header>
